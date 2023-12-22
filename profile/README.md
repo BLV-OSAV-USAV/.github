@@ -4,4 +4,4 @@
 
 The main task of the FSVO is to actively promote the health and well-being of humans and animals. The central pillars of this approach are food safety and healthy eating for humans, and animal health and welfare for animals.
 
-This GitHub page is used to make individual projects publically accessible. Any information you find here may be outdated. For definitive questions about the FSVO and its applications and systems, please visit the [official website.](https://www.blv.admin.ch/blv/en/home.html)
+This GitHub page is used to make individual projects publicly available. Any information you find here may be out of date. For definitive questions about the FSVO and its applications and systems, please visit the [official website.](https://www.blv.admin.ch/blv/en/home.html)
