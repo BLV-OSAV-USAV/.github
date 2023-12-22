@@ -1,12 +1,3 @@
-## Hi there 👋
+![logo](https://github.com/BLV-OSAV-USAV/.github/assets/10924680/2a4f814f-2c2a-4b1f-9811-eef3efa553ad)
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[Federal Food Safety and Veterinary Office FSVO](https://www.blv.admin.ch/blv/en/home.html)
