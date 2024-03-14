@@ -1,3 +1,0 @@
-Score of everyone :
-
-https://optifood.directus.app/items/Score?fields=*.*.*.*
