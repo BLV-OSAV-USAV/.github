@@ -2,6 +2,8 @@
 
 <b>Federal Food Safety and Veterinary Office FSVO</b>
 
+<img src="https://github.com/user-attachments/assets/1fecd972-93f5-493e-8342-ca69e4527acd" width="500"><br><br>
+
 The main task of the FSVO is to actively promote the health and well-being of humans and animals. The central pillars of this approach are food safety and healthy eating for humans, and animal health and welfare for animals.
 
 > [!IMPORTANT]
