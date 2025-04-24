@@ -10,4 +10,7 @@ The main task of the FSVO is to actively promote the health and well-being of hu
 This GitHub page is used to make individual projects publicly available. Any information you find here may be out of date. For definitive questions about the FSVO and its applications and systems, please visit the [official website.](https://www.blv.admin.ch/blv/en/home.html)
 
 > [!TIP]
-If you are looking for our Open Data, check out [opendata.swiss](https://opendata.swiss/de/organization/bundesamt-fur-lebensmittelsicherheit-und-veterinaerwesen-blv)
+If you are looking for our open data, check out [opendata.swiss](https://opendata.swiss/de/organization/bundesamt-fur-lebensmittelsicherheit-und-veterinaerwesen-blv)
+
+> [!TIP]
+If you are looking for our closed study data, check out [www.studydata.blv.admin.ch](https://www.studydata.blv.admin.ch/)
